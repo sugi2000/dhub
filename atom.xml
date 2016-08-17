@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[dhub]]></title>
   <link href="http://sugi2000.github.io/dhub/atom.xml" rel="self"/>
   <link href="http://sugi2000.github.io/dhub/"/>
-  <updated>2016-08-17T14:40:09+09:00</updated>
+  <updated>2016-08-17T15:08:23+09:00</updated>
   <id>http://sugi2000.github.io/dhub/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[SUGIMOTO Tatsuo]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
